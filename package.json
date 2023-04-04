@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "0xsequence": "^0.43.7",
+    "0xsequence": "^0.43.25",
     "@0xsequence/rainbowkit-plugin":"1.0.5",
     "@rainbow-me/rainbowkit": "latest",
     "ethers": "^5.6.1",
-    "next": "^12.1.6",
+    "next": "^13.2.4",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "wagmi": "^0.12.9"
